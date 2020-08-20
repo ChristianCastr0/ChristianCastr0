@@ -12,7 +12,7 @@
 <a href="https://instagram.com/ccastro_93"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 🧑🏿 Christian Castro | 💻 Software Engineer | 🌏 San Francisco Bay Area </h3>
+<h3> 🧑🏿 Christian Castro | 💻 Software Engineer | 🌉 San Francisco Bay Area </h3>
 </div>
 
 ## About Me
