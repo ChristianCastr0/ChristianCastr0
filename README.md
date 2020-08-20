@@ -25,7 +25,7 @@ Hi, I'm Chris - a recent graduate from San Jose State University. I have worked 
 📚 Learning is a lifetime journey <br/>
 
 ## Get in Touch
-Feel free to reach out to me through the social media platforms linked above. I am always lookign for opportunities to collaborate with others!
+Feel free to reach out to me through the social media platforms linked above. I am always looking for opportunities to collaborate with others!
 
 ## Contributions
 ![Christian's Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianCastr0&show_icons=true&theme=radical)
