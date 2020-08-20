@@ -16,7 +16,7 @@
 </div>
 
 ## About Me
-Hi, I'm Chris - a recent graduate from San Jose State University. I have worked in IT and web development, in addition to education, working as a coding instructor to pass my knowledge on to children and young adults looking to pursue careers in STEM.
+Hi, I'm Chris - a recent graduate from San Jose State University. I have worked in IT and web development, in addition to education, working as a coding instructor to pass my knowledge on to children and young adults looking to pursue careers in STEM. I am actively searching for development roles.
  
 ## My Values
 🤝 Collaboration is the best teacher <br/>
