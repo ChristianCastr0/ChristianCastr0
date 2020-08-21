@@ -7,9 +7,9 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ccastro3/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ccastr0777"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ccastro_93"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ccastro3/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ccastr0777" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ccastro_93" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> 🧑🏿 Christian Castro | 💻 Software Engineer | 🌉 San Francisco Bay Area </h3>
