@@ -23,6 +23,7 @@ Hi, I'm Chris - a recent graduate from San Jose State University. I have worked 
 ✨ Improvement is found by those who seek it <br/>
 💪 Failure is the key to success <br/>
 📚 Learning is a lifetime journey <br/>
+🌙 Dark mode is life
 
 ## Get in Touch
 Feel free to reach out to me through the social media platforms linked above. I am always looking for opportunities to collaborate with others!
